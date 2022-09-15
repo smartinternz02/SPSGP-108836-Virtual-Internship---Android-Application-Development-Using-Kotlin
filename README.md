@@ -1,6 +1,7 @@
 # SPSGP-108836-Virtual-Internship---Android-Application-Development-Using-Kotlin
 Virtual Internship - Android Application Development Using Kotlin
-NAME : K SANDEEP KUMAR
+
+#NAME : K SANDEEP KUMAR
 
 The Main Project files of Android Application Development Using Kotlin
 1. Nearby Place Finder App
